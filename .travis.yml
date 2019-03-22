@@ -5,3 +5,10 @@ php:
 
 install:
   - composer install --prefer-dist --no-dev --optimize-autoloader --quiet
+
+notifications:
+  email:
+    recipients:
+      - wang84802@gmail.com
+    on_success: always
+    on_failure: always
