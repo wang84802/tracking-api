@@ -1,7 +1,6 @@
 <?php
 namespace App\Exceptions;
 
-use Log;
 class BaseException extends \Exception {
     protected $status_code;
     protected $messages;

@@ -3,8 +3,9 @@ language: php
 php:
   - 7.2
 
-install:
-  - composer install --prefer-dist --no-dev --optimize-autoloader --quiet
+before_script:
+  - composer self-update
+  - composer install --no-interaction
 
 notifications:
   email:
@@ -12,3 +13,5 @@ notifications:
       - wang84802@gmail.com
     on_success: always
     on_failure: always
+
+script: ./vendor/bin/phpunit

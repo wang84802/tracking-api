@@ -1,0 +1,47 @@
+[33mcommit f0de191869c3d99ce690bf044a0a19908cc0c9b6[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Wed Mar 27 14:32:16 2019 +0800
+
+    .travis.yml add berfore_script
+
+[33mcommit bf52ec6948637490d1e7594fc24c3b7b6719dc62[m
+Author: wang84802 <wang84802@gmail.com>
+Date:   Fri Mar 22 11:27:57 2019 +0800
+
+    .travis.yml add notifications
+
+[33mcommit 94ca13db39b0211a65a01f6c49129a9283c044f7[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Fri Mar 22 11:20:07 2019 +0800
+
+    delete testcase
+
+[33mcommit 9f4cd054b5ea289c5deba6d66218ecf7188a47a6[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Fri Mar 22 11:01:51 2019 +0800
+
+    .travis.yml update
+
+[33mcommit 18ff6fd53fc988ee8414c87fc59ab084a884f86d[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Fri Mar 22 10:55:21 2019 +0800
+
+    CI test3
+
+[33mcommit 8b7ec2a6808696f8f33304eb3315d87f05658e0e[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Fri Mar 22 10:39:13 2019 +0800
+
+    CI test1
+
+[33mcommit a6840951063c54cfb0afba6b135c665f1af9e443[m
+Author: wang84802 <wang84802@gmail.com>
+Date:   Fri Mar 22 10:22:49 2019 +0800
+
+    CI test
+
+[33mcommit 541a3e994c45033ba1dda1fff0ac398e3666a3a0[m
+Author: ChrisWang84802 <chris.wang@contin-global.com>
+Date:   Fri Mar 22 10:08:26 2019 +0800
+
+    first commit
